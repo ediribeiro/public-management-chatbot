@@ -127,6 +127,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+chatmngpublic
 
 # Spyder project settings
 .spyderproject
